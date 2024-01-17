@@ -5,9 +5,11 @@ Gabriel Bischof, John Broder, Blentin Tosuni, Ensar Yildirim
 
 | Datum | Version | Zusammenfassung                                              |
 | ----- | ------- | ------------------------------------------------------------ |
-|       | 0.0.1   | ✍️ Jedes Mal, wenn Sie an dem Projekt arbeiten, fügen Sie hier eine neue Zeile ein und beschreiben in *einem* Satz, was Sie erreicht haben. |
-|       | ...     |                                                              |
-|       | 1.0.0   |                                                              |
+|10.01.2024| 0.0.1| Dokumentation angefangen zu bearbeiten. |
+|10.01.2024| 0.0.2|Wir haben uns informiert, wie wir unser Projekt gut umsetzen können.|
+|17.01.2024| 1.0.0|Wir haben langsam angefangen zu programmieren         |
+|17.01.2024| 1.0.0|Wir haben die Dokumentation weitergeführt.         |
+
 
 ## 1 Informieren
 
