@@ -26,8 +26,8 @@ Gabriel Bischof, John Broder, Blentin Tosuni, Ensar Yildirim
 | 3    | Funktional      | Muss | Als ein User möchte ich das jetzige Datum eingeben, damit ich weiss wie viele Tage fehlen bis die Prüfung anstehen. |
 | 4    | Funktional      | Muss | Als ein User möchte ich die eingebenen Daten falls nötig verändern, damit ich das Datum falls nötig anpassen kann. |
 | 5    | Funktional      | Muss | Als ein User möchte ich die eingebenen Daten falls nötig löschen, damit ich Prüfungen falls sie zum Beispiel erledigt worden sind löschen können. |
-| 5    | Qualität        | Kann | Als ein User möchte ich die eingebenen Daten in einer Benutzeroberfläche eingeben, damit es einfach und verständlich bearbeiten kann. |
-| 6    | Rand            | Kann | Als ein User möchte ich meinen Lernfortschritt eingeben in %, damit ich weiss wie viel man lernen muss. |
+| 6    | Qualität        | Kann | Als ein User möchte ich die eingebenen Daten in einer Benutzeroberfläche eingeben, damit es einfach und verständlich bearbeiten kann. |
+| 7    | Rand            | Kann | Als ein User möchte ich meinen Lernfortschritt eingeben in %, damit ich weiss wie viel man lernen muss. |
 
 
 
@@ -54,8 +54,12 @@ Gabriel Bischof, John Broder, Blentin Tosuni, Ensar Yildirim
 | 1.A  |24.01.2024|Alle    |Prüfungen speichern|   90 min |
 | 2.A  |24.01.2024|Alle    |Datum der Prüfung speichern|90 min |
 | 3.A  |24.01.2024|Alle    |Datum der Prüfung eingeben|90 min |
-| 1.B  |24.01.2024|Alle    |Countdown bis zur Prüfung|90 min |
-| 1.A  |24.01.2024|Alle    |Prüfungen speichern|90 min |
+| 3.B  |24.01.2024|Alle    |Countdown bis zur Prüfung|90 min |
+| 4.A  |24.01.2024|Alle    |eingegebene  Daten bearbeiten|90 min |
+| 5.A  |24.01.2024|Alle    | eingegebene Daten löschen|90 min |
+| 6.A  |24.01.2024|Alle    |Daten in Benutzeroberfläche eingeben |90 min |
+| 7.A  |24.01.2024|Alle    |Lernfortschritt eingeben|90 min |
+
 
 Total: 
 
