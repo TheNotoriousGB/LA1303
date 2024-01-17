@@ -51,8 +51,11 @@ Gabriel Bischof, John Broder, Blentin Tosuni, Ensar Yildirim
 
 | AP-№ | Frist | Zuständig | Beschreibung | geplante Zeit |
 | ---- | ----- | --------- | ------------ | ------------- |
-| 1.A  |       |           |              |               |
-| ...  |       |           |              |               |
+| 1.A  |24.01.2024|Alle    |Prüfungen speichern|   90 min |
+| 2.A  |24.01.2024|Alle    |Datum der Prüfung speichern|90 min |
+| 3.A  |24.01.2024|Alle    |Datum der Prüfung eingeben|90 min |
+| 1.B  |24.01.2024|Alle    |Countdown bis zur Prüfung|90 min |
+| 1.A  |24.01.2024|Alle    |Prüfungen speichern|90 min |
 
 Total: 
 
