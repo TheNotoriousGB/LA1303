@@ -21,8 +21,16 @@ Gabriel Bischof, John Broder, Blentin Tosuni, Ensar Yildirim
 
 | US-№ | Verbindlichkeit | Typ  | Beschreibung                       |
 | ---- | --------------- | ---- | ---------------------------------- |
-| 1    |                 |      | Als ein 🤷‍♂️ möchte ich 🤷‍♂️, damit 🤷‍♂️ |
-| ...  |                 |      |                                    |
+| 1    | Funktional      | Muss | Als ein User möchte ich meine Prüfungen speichern lassen, damit ich aufrufen kann welche Prüfungen anstehen.|
+| 2    | Funktional      | Muss | Als ein User möchte ich das Datum der Prüfung speichern lassen, damit ich weiss wann meine Prüfungen anstehen. |
+| 3    | Funktional      | Muss | Als ein User möchte ich das jetzige Datum eingeben, damit ich weiss wie viele Tage fehlen bis die Prüfung anstehen. |
+| 4    | Funktional      | Muss | Als ein User möchte ich die eingebenen Daten falls nötig verändern, damit ich das Datum falls nötig anpassen kann. |
+| 5    | Funktional      | Muss | Als ein User möchte ich die eingebenen Daten falls nötig löschen, damit ich Prüfungen falls sie zum Beispiel erledigt worden sind löschen können. |
+| 5    | Qualität        | Kann | Als ein User möchte ich die eingebenen Daten in einer Benutzeroberfläche eingeben, damit es einfach und verständlich bearbeiten kann. |
+| 6    | Rand            | Kann | Als ein User möchte ich meinen Lernfortschritt eingeben in %, damit ich weiss wie viel man lernen muss. |
+
+
+
 
 ✍️ Jede User Story hat eine ganzzahlige Nummer (1, 2, 3 etc.), eine Verbindlichkeit (Muss oder Kann?), und einen Typ (Funktional, Qualität, Rand). Die User Story selber hat folgende Form: *Als ein 🤷‍♂️ möchte ich 🤷‍♂️, damit 🤷‍♂️*.
 
