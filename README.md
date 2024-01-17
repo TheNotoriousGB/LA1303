@@ -15,9 +15,9 @@ Gabriel Bischof, John Broder, Blentin Tosuni, Ensar Yildirim
 
 ### 1.1 Ihr Projekt
 
-✍️ Beschreiben Sie Ihr Projekt in einem griffigen Satz.
+Unsere Website bietet eine API, mit der man Prüfungsdaten übermitteln können, um sofort die verbleibenden Tage bis zur nächsten Prüfung zu erfahren.
 
-✍️ Erklären Sie genauer in 50 bis 100 Wörtern, was genau Sie in diesem Projekt erreichen möchten, und was Sie dabei zu lernen hoffen.
+In diesem Projekt möchten wir eine Website entwickeln, die eine benutzerfreundliche API zur Verfügung stellt. Diese API ermöglicht es den Nutzern, ihre Prüfungsdaten und -termine einzugeben. Das System berechnet dann automatisch die verbleibenden Tage bis zur nächsten Prüfung und zeigt sie auf der Website an. Dies soll den Benutzern helfen, ihre Zeit effizienter zu organisieren und sicherzustellen, dass sie gut vorbereitet sind. Bei diesem Projekt hoffen wir, unsere Fähigkeiten in Webentwicklung, API-Design und Datenverarbeitung zu verbessern. Wir möchten auch mehr über die Umsetzung nützlicher Tools für den Alltag lernen und gleichzeitig unsere Programmierkenntnisse erweitern.
 
 ### 1.2 User Stories
 
