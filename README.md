@@ -59,14 +59,15 @@ Gabriel Bischof, John Broder, Blentin Tosuni, Ensar Yildirim
 
 | AP-№ | Frist | Zuständig | Beschreibung | geplante Zeit |
 | ---- | ----- | --------- | ------------ | ------------- |
-| 1.A  |24.01.2024|Alle    |Prüfungen speichern|   90 min |
-| 2.A  |24.01.2024|Alle    |Datum der Prüfung speichern|90 min |
-| 3.A  |24.01.2024|Alle    |Datum der Prüfung eingeben|90 min |
-| 3.B  |24.01.2024|Alle    |Countdown bis zur Prüfung|90 min |
+| 1.A  |24.01.2024|Alle    | API erstellen  mit Datenbank |   90 min |
+| 2.A  |24.01.2024|Alle    | API mit Postman oder Swagger testen|90 min |
+| 3.A  |24.01.2024|Alle    | API mit Docker Container verbinden  |90 min |
+| 3.B  |24.01.2024|Alle    | Speicherung von Daten in der Datenbank |90 min |
 | 4.A  |24.01.2024|Alle    |eingegebene  Daten bearbeiten|90 min |
 | 5.A  |24.01.2024|Alle    | eingegebene Daten löschen|90 min |
-| 6.A  |24.01.2024|Alle    |Daten in Benutzeroberfläche eingeben |90 min |
-| 7.A  |24.01.2024|Alle    |Lernfortschritt eingeben|90 min |
+| 6.A  |24.01.2024|Alle    | Dauer bis zur Prüfung ausgeben  |90 min |
+| 7.A  |24.01.2024|Alle    |Lernfortschritt speichern|90 min |
+
 
 
 Total: 
