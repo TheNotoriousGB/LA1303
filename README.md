@@ -38,8 +38,14 @@ Gabriel Bischof, John Broder, Blentin Tosuni, Ensar Yildirim
 
 | TC-№ | Ausgangslage | Eingabe | Erwartete Ausgabe |
 | ---- | ------------ | ------- | ----------------- |
-| 1.1  |              |         |                   |
-| ...  |              |         |                   |
+| 1.1 | Gebe deine anstehenden Prüfungen ein   |Prüfungen          | Anstehende Prüfung                  |
+| 1.2 | Gebe das Datum deiner anstehenden Prüfungen ein       |Datum        |  Datum der anstehenden Prüfungen               |
+| 1.3 | Jetziges Datum eingeben       |Datum       | Datum der anstehenden Prüfungen               |
+| 1.4 | neues Datum eingeben       |neues Datum       | Das neue Datum               |
+| 1.5 | Möchten Sie die Prüfung löschen|   Ja    | Prüfung gelöscht               |
+| 1.6 |Daten eingeben|   Daten  | Angegebene Daten werden angezeigt               |
+| 1.7 |Lernfortschritt eingeben|   Lernfortschritt in %  | Lernfortschritt wird in % angezeigt|
+
 
 ✍️ Die Nummer hat das Format `N.m`, wobei `N` die Nummer der User Story ist, die der Testfall abdeckt, und `m` von `1` an nach oben gezählt. Beispiel: Der dritte Testfall, der die zweite User Story abdeckt, hat also die Nummer `2.3`.
 
