@@ -1,7 +1,7 @@
 # Projekt-Dokumentation
 
 
-Gabriel Bischof, John Broder, Blentin Tosuni, Ensar Yildirim
+Gabriel Bischof, John Broder, Ensar Yildirim
 
 | Datum | Version | Zusammenfassung                                              |
 | ----- | ------- | ------------------------------------------------------------ |
