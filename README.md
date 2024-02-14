@@ -5,10 +5,13 @@ Gabriel Bischof, John Broder, Ensar Yildirim
 
 | Datum | Version | Zusammenfassung                                              |
 | ----- | ------- | ------------------------------------------------------------ |
-|10.01.2024| 0.0.1| Dokumentation angefangen zu bearbeiten. |
-|10.01.2024| 0.0.2|Wir haben uns informiert, wie wir unser Projekt gut umsetzen können.|
-|17.01.2024| 1.0.0|Wir haben langsam angefangen zu programmieren         |
-|17.01.2024| 1.0.0|Wir haben die Dokumentation weitergeführt.         |
+|10.01.2024| 1.1| Dokumentation angefangen zu bearbeiten.                            |
+|10.01.2024| 1.2| Wir haben uns informiert, wie wir unser Projekt gut umsetzen können.|
+|17.01.2024| 2.1| Wir haben langsam angefangen zu programmieren                       |
+|17.01.2024| 2.2| Wir haben die Dokumentation weitergeführt.                          |
+|14.02.2024| 3.1| Wir haben die Dokumentation weitergeführt.                          |
+|14.02.2024| 3.2| Wir haben unser projekt beendet                                     |
+
 
 
 ## 1 Informieren
@@ -33,71 +36,46 @@ In diesem Projekt möchten wir eine Website entwickeln, die eine benutzerfreundl
 
 
 
-
-✍️ Jede User Story hat eine ganzzahlige Nummer (1, 2, 3 etc.), eine Verbindlichkeit (Muss oder Kann?), und einen Typ (Funktional, Qualität, Rand). Die User Story selber hat folgende Form: *Als ein 🤷‍♂️ möchte ich 🤷‍♂️, damit 🤷‍♂️*.
-
 ### 1.3 Testfälle
 
 | TC-№ | Ausgangslage | Eingabe | Erwartete Ausgabe |
 | ---- | ------------ | ------- | ----------------- |
-| 1.1 | Gebe deine anstehenden Prüfungen ein   |Prüfungen          | Anstehende Prüfung                  |
-| 1.2 | Gebe das Datum deiner anstehenden Prüfungen ein       |Datum        |  Datum der anstehenden Prüfungen               |
-| 1.3 | Jetziges Datum eingeben       |Datum       | Datum der anstehenden Prüfungen               |
-| 1.4 | neues Datum eingeben       |neues Datum       | Das neue Datum               |
-| 1.5 | Möchten Sie die Prüfung löschen|   Ja    | Prüfung gelöscht               |
-| 1.6 |Daten eingeben|   Daten  | Angegebene Daten werden angezeigt               |
-| 1.7 |Lernfortschritt eingeben|   Lernfortschritt in %  | Lernfortschritt wird in % angezeigt|
+| 1.1 | Gebe deine anstehenden Prüfungen ein            | Prüfungen            | Anstehende Prüfung                  |
+| 1.2 | Gebe das Datum deiner anstehenden Prüfungen ein | Datum                | Datum der anstehenden Prüfungen     |
+| 1.3 | Jetziges Datum eingeben                         | Datum                | Datum der anstehenden Prüfungen     |
+| 1.4 | neues Datum eingeben                            | neues Datum          | Das neue Datum                      |
+| 1.5 | Möchten Sie die Prüfung löschen                 | Ja                   | Prüfung gelöscht                    |
+| 1.6 | Daten eingeben                                  | Daten                | Angegebene Daten werden angezeigt   |
+| 1.7 | Lernfortschritt eingeben                        | Lernfortschritt in % | Lernfortschritt wird in % angezeigt |
 
-
-✍️ Die Nummer hat das Format `N.m`, wobei `N` die Nummer der User Story ist, die der Testfall abdeckt, und `m` von `1` an nach oben gezählt. Beispiel: Der dritte Testfall, der die zweite User Story abdeckt, hat also die Nummer `2.3`.
-
-### 1.4 Diagramme
-
-✍️Fügen Sie hier ein Use Case-Diagramm mit mindestens 3 Anwendungsfällen ein; und eine Skizze davon, wie Ihre Netzseite aussehen sollte.
 
 ## 2 Planen
 
 | AP-№ | Frist | Zuständig | Beschreibung | geplante Zeit |
 | ---- | ----- | --------- | ------------ | ------------- |
-| 1.A  |24.01.2024|Alle    | API erstellen  mit Datenbank |   90 min |
-| 2.A  |24.01.2024|Alle    | API mit Postman oder Swagger testen|90 min |
-| 3.A  |24.01.2024|Alle    | API mit Docker Container verbinden  |90 min |
-| 3.B  |24.01.2024|Alle    | Speicherung von Daten in der Datenbank |90 min |
-| 4.A  |24.01.2024|Alle    |eingegebene  Daten bearbeiten|90 min |
-| 5.A  |24.01.2024|Alle    | eingegebene Daten löschen|90 min |
-| 6.A  |24.01.2024|Alle    | Dauer bis zur Prüfung ausgeben  |90 min |
-| 7.A  |24.01.2024|Alle    |Lernfortschritt speichern|90 min |
+| 1.A  |24.01.2024|Alle    | API erstellen  mit Datenbank           |90 min |
+| 2.A  |24.01.2024|Alle    | Crud erstellen                         |90min  |
+| 3.A  |24.01.2024|Alle    | Speicherung von Daten in der Datenbank |90 min |
+| 4.A  |24.01.2024|Alle    | API mit Postman oder Swagger testen    |90 min |
+| 5.A  |24.01.2024|Alle    | API mit Docker Container verbinden     |90 min |
+| 6.A  |24.01.2024|Alle    | Dauer bis zur Prüfung ausgeben         |90 min |
+| 7.A  |24.01.2024|Alle    | Lernfortschritt speichern              |90 min |
 
 
 
-Total: 
-
-✍️ Die Nummer hat das Format `N.m`, wobei `N` die Nummer der User Story ist, auf die sich das Arbeitspaket bezieht, und `m` von `A` an nach oben buchstabiert. Beispiel: Das dritte Arbeitspaket, das die zweite User Story betrifft, hat also die Nummer `2.C`.
-
-✍️ Ein Arbeitspaket sollte etwa 45' für eine Person in Anspruch nehmen. Die totale Anzahl Arbeitspakete sollte etwa Folgendem entsprechen: `Anzahl R-Sitzungen` ╳ `Anzahl Gruppenmitglieder` ╳ `4`. Wenn Sie also zu dritt an einem Projekt arbeiten, für welches zwei R-Sitzungen geplant sind, sollten Sie auf `2` ╳ `3` ╳`4` = `24` Arbeitspakete kommen. Sollten Sie merken, dass Sie hier nicht genügend Arbeitspakte haben, denken Sie sich weitere "Kann"-User Stories für Kapitel 1.2 aus.
+Total: 630 min
 
 ## 3 Entscheiden
 
-✍️ Dokumentieren Sie hier Ihre Entscheidungen und Annahmen, die Sie im Bezug auf Ihre User Stories und die Implementierung getroffen haben.
-
+Wir haben uns entschieden..
 ## 4 Realisieren
 
 | AP-№ | Datum | Zuständig | geplante Zeit | tatsächliche Zeit |
 | ---- | ----- | --------- | ------------- | ----------------- |
-| 1.A  |       |           |               |                   |
-| ...  |       |           |               |                   |
+| 1.A  |17.01.2024| Alle                            |90 min| 90 min |
+| 2.A  |17.01.2024| John Broder, Gabriel Bischof    |90 min| 90 min | 
+| 3.A  |14.02.2024| Ensar Yildirim                  |90 min| 90 min | 
+| 4.A  |14.02.2024| John Broder                     |90 min| 60 min |
+| 5.A  |14.02.2024| Ensar Yildirim, Gabriel Bischof |90 min| 120 min|
 
-✍️ Tragen Sie jedes Mal, wenn Sie ein Arbeitspaket abschließen, hier ein, wie lang Sie effektiv dafür hatten.
-
-## 5 Kontrollieren
-
-| TC-№ | Datum | Resultat | Tester |
-| ---- | ----- | -------- | ------ |
-| 1.1  |       |          |        |
-| ...  |       |          |        |
-
-✍️ Vergessen Sie nicht, ein Fazit hinzuzufügen, welches das Test-Ergebnis einordnet.
-
-## 6 Auswerten
-
-✍️ Fügen Sie hier eine Verknüpfung zu Ihrem Lern-Bericht ein.
+Total: 450 min 
