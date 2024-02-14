@@ -5,12 +5,12 @@ Gabriel Bischof, John Broder, Ensar Yildirim
 
 | Datum | Version | Zusammenfassung                                              |
 | ----- | ------- | ------------------------------------------------------------ |
-|10.01.2024| 1.1| Dokumentation angefangen zu bearbeiten.                            |
+|10.01.2024| 1.1| Dokumentation angefangen zu bearbeiten.                             |
 |10.01.2024| 1.2| Wir haben uns informiert, wie wir unser Projekt gut umsetzen können.|
 |17.01.2024| 2.1| Wir haben langsam angefangen zu programmieren                       |
 |17.01.2024| 2.2| Wir haben die Dokumentation weitergeführt.                          |
 |14.02.2024| 3.1| Wir haben die Dokumentation weitergeführt.                          |
-|14.02.2024| 3.2| Wir haben unser projekt beendet                                     |
+|14.02.2024| 3.2| Wir haben unser Projekt beendet                                     |
 
 
 
@@ -22,16 +22,16 @@ Unsere Website bietet eine API, mit der man Prüfungsdaten übermitteln können,
 
 In diesem Projekt möchten wir eine Website entwickeln, die eine benutzerfreundliche API zur Verfügung stellt. Diese API ermöglicht es den Nutzern, ihre Prüfungsdaten und -termine einzugeben. Das System berechnet dann automatisch die verbleibenden Tage bis zur nächsten Prüfung und zeigt sie auf der Website an. Dies soll den Benutzern helfen, ihre Zeit effizienter zu organisieren und sicherzustellen, dass sie gut vorbereitet sind. Bei diesem Projekt hoffen wir, unsere Fähigkeiten in Webentwicklung, API-Design und Datenverarbeitung zu verbessern. Wir möchten auch mehr über die Umsetzung nützlicher Tools für den Alltag lernen und gleichzeitig unsere Programmierkenntnisse erweitern.
 
-### 1.2 User Stories
+### 1.2 User Storys
 
 | US-№ | Verbindlichkeit | Typ  | Beschreibung                       |
 | ---- | --------------- | ---- | ---------------------------------- |
 | 1    | Funktional      | Muss | Als ein User möchte ich meine Prüfungen speichern lassen, damit ich aufrufen kann welche Prüfungen anstehen.|
-| 2    | Funktional      | Muss | Als ein User möchte ich das Datum der Prüfung speichern lassen, damit ich weiss wann meine Prüfungen anstehen. |
+| 2    | Funktional      | Muss | Als ein User möchte ich das Datum der Prüfung speichern lassen, damit ich weiss, wann meine Prüfungen anstehen. |
 | 3    | Funktional      | Muss | Als ein User möchte ich das jetzige Datum eingeben, damit ich weiss wie viele Tage fehlen bis die Prüfung anstehen. |
-| 4    | Funktional      | Muss | Als ein User möchte ich die eingebenen Daten falls nötig verändern, damit ich das Datum falls nötig anpassen kann. |
-| 5    | Funktional      | Muss | Als ein User möchte ich die eingebenen Daten falls nötig löschen, damit ich Prüfungen falls sie zum Beispiel erledigt worden sind löschen können. |
-| 6    | Qualität        | Kann | Als ein User möchte ich die eingebenen Daten in einer Benutzeroberfläche eingeben, damit es einfach und verständlich bearbeiten kann. |
+| 4    | Funktional      | Muss | Als ein User möchte ich die eingegebenen Daten, falls nötig, verändern, damit ich das Datum, falls nötig anpassen kann. |
+| 5    | Funktional      | Muss | Als ein User möchte ich die eingegebenen Daten, falls nötig, löschen, damit ich Prüfungen, falls sie zum Beispiel erledigt worden sind, löschen können. |
+| 6    | Qualität        | Kann | Als ein User möchte ich die eingegebenen Daten in einer Benutzeroberfläche eingeben, damit es einfach und verständlich bearbeiten kann. |
 | 7    | Rand            | Kann | Als ein User möchte ich meinen Lernfortschritt eingeben in %, damit ich weiss wie viel man lernen muss. |
 
 
@@ -67,7 +67,7 @@ Total: 630 min
 
 ## 3 Entscheiden
 
-Wir haben uns entschieden unser Projekt mit Postman und Swagger zu Testen.
+Wir haben uns entschieden unser Projekt mit Postman und Swagger zu testen.
 ## 4 Realisieren
 
 | AP-№ | Datum | Zuständig | geplante Zeit | tatsächliche Zeit |
