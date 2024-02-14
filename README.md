@@ -67,7 +67,7 @@ Total: 630 min
 
 ## 3 Entscheiden
 
-Wir haben uns entschieden..
+Wir haben uns entschieden unser Projekt mit Postman und Swagger zu Testen.
 ## 4 Realisieren
 
 | AP-№ | Datum | Zuständig | geplante Zeit | tatsächliche Zeit |
