@@ -1,0 +1,32 @@
+version: '3.4'
+
+networks:
+  backend:
+    
+services:
+  examapidb:
+    container_name: examapi-db
+    image: mcr.microsoft.com/mssql/server:2019-latest
+    environment:
+      SA_PASSWORD: "Password123"
+      ACCEPT_EULA: "Y"   
+    networks: 
+     - backend
+    ports:
+    - "8001:1433"
+  
+  examapi:
+    container_name: examapi
+    image: ${DOCKER_REGISTRY-}examapi
+    build:
+      context: .
+      dockerfile: ExamAPI/Dockerfile
+    networks: 
+      - backend
+    ports:
+     - "8002:80"
+    environment:
+    - DB_HOST=examapi-db
+    - DB_NAME=examapidb
+    - DB_USER=admin
+    - DB_PASSWORD=Password123
