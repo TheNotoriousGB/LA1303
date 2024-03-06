@@ -32,7 +32,7 @@ In diesem Projekt möchten wir eine Website entwickeln, die eine benutzerfreundl
 | 4    | Funktional      | Muss | Als ein User möchte ich die eingegebenen Daten, falls nötig, verändern, damit ich das Datum, falls nötig anpassen kann. |
 | 5    | Funktional      | Muss | Als ein User möchte ich die eingegebenen Daten, falls nötig, löschen, damit ich Prüfungen, falls sie zum Beispiel erledigt worden sind, löschen können. |
 | 6    | Qualität        | Kann | Als ein User möchte ich die eingegebenen Daten in einer Benutzeroberfläche eingeben, damit es einfach und verständlich bearbeiten kann. |
-| 7    | Rand            | Kann | Als ein User möchte ich meinen Lernfortschritt eingeben in %, damit ich weiss wie viel man lernen muss. |
+| 7    | Rand            | Kann | Als ein User möchte ich meinen Lernfortschritt in % eingeben, damit ich weiss wie viel man lernen muss. |
 
 
 
