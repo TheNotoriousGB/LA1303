@@ -79,3 +79,13 @@ Wir haben uns entschieden unser Projekt mit Postman und Swagger zu testen.
 | 5.A  |14.02.2024| Ensar Yildirim, Gabriel Bischof |90 min| 120 min|
 
 Total: 450 min 
+
+
+## 5 Testen
+
+|  TC-№	  | Datum  |Resultat|
+| ------------- | ------------- | ---------------|
+| 1.1  |21.02.2024   |   OK             |
+| 1.2| 21.02.2024   |    OK            |
+| 1.3  |21.02.2024   |  OK              |
+| 2.1|21.02.2024  |     OK           |
